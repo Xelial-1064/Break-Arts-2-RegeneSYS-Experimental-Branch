@@ -1,2 +1,2 @@
-StreamingAssets/* filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/* diff=lfs merge=lfs -text
 . !text !filter !merge !diff
